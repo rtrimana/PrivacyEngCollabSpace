@@ -5,6 +5,10 @@ Contributions are listed in alphabetical order.
 
 **[Link to tool](https://github.com/usnistgov/PrivacyEngCollabSpace/tree/master/tools/risk-assessment/FAIR-Privacy)**
 
+## Comcast CARAF
+
+**[Link to tool](https://github.com/Comcast/CARAF)**
+
 ## Comcast xCompass
 
 **[Link to tool](https://github.com/Comcast/xCompass)**
